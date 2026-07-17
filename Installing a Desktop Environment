@@ -1,0 +1,8 @@
+You can install desktop environment on Forsaken Linux
+
+to install
+
+For gnome doas apt install task-gnome-desktop
+For kde doas apt install task-kde-desktop
+
+after install run doas rm -rf /usr/share/desktop-base
