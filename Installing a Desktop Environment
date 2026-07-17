@@ -6,3 +6,8 @@ For gnome doas apt install task-gnome-desktop
 For kde doas apt install task-kde-desktop
 
 after install run doas rm -rf /usr/share/desktop-base
+
+You can also install other desktop environment
+
+you must check ls /usr/share/desktop-base
+if there is /usr/share/desktop-base run oas rm -rf /usr/share/desktop-base then doas apt-mark hold desktop-base
