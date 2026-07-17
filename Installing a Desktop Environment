@@ -10,4 +10,4 @@ after install run doas rm -rf /usr/share/desktop-base
 You can also install other desktop environment
 
 you must check ls /usr/share/desktop-base
-if there is /usr/share/desktop-base run oas rm -rf /usr/share/desktop-base then doas apt-mark hold desktop-base
+if there is /usr/share/desktop-base run doas rm -rf /usr/share/desktop-base then doas apt-mark hold desktop-base
