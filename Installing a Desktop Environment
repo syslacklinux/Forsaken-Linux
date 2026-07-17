@@ -11,3 +11,7 @@ You can also install other desktop environment
 
 you must check ls /usr/share/desktop-base
 if there is /usr/share/desktop-base run doas rm -rf /usr/share/desktop-base then doas apt-mark hold desktop-base
+
+run sudo to check if sudo is installed if sudo is installed remove it again using doas apt purge sudo then doas apt autoremove
+
+Note if the wallpaper is just plain color for example gnome having a blue in debian without desktop base you can change with default wallpaper
