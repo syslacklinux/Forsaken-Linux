@@ -1,0 +1,23 @@
+1 Run doas nano /etc/apt/sources.list.d/debian-backports.sources
+  Then if you want debian bookworm backports packages and kernels
+
+  Types: deb deb-src
+  URIs: http://deb.debian.org/debian
+  Suites: bookworm-backports
+  Components: main
+  Enabled: yes
+  Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+
+  if you want debian trixie backports packages and kernels
+
+  Types: deb deb-src
+  URIs: http://deb.debian.org/debian
+  Suites: trixie-backports
+  Components: main
+  Enabled: yes
+  Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+
+After this CTRL X Y ENTER
+
+2 run doas apt update && doas apt upgrade -y -t bookworm-backports
+  if trixie backports run doas apt update && doas apt upgrade -y -t trixie-backports
