@@ -51,3 +51,11 @@ CTRL X Y Enter then doas /usr/sbin/grub-mkconfig -o /boot/grub/grub.cfg
 14 Run doas nano ~/.bashrc
    Then at very end add uname -r;fortune
 15 run doas rm /etc/motd
+16 Create a Forsaken origin file doas nano /etc/dpkg/origins/forsaken
+   Add
+
+   Vendor: Forsaken Linux
+   Vendor-URL: https://github.com/syslacklinux/Forsaken-Linux
+   Bugs: https://github.com/syslacklinux/Forsaken-Linux/issues
+
+CTRL X Y ENTER Then doas ln -sf /etc/dpkg/origins/forsaken /etc/dpkg/origins/default
