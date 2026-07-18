@@ -1,0 +1,6 @@
+Forsaken Linux 1
+Architecture=amd64,arm64,armel,armhf,i386,mips,mips64el,mipsel,ppc64el,s390x
+Codename=Eclipse
+Based On Debian 11 Bullseye
+New Features=First Version Of Forsaken Linux
+Kernel Version=5.10
