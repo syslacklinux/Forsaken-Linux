@@ -50,4 +50,4 @@ CTRL X Y Enter then doas /usr/sbin/grub-mkconfig -o /boot/grub/grub.cfg
 13 Run doas apt install bsdgames fortune
 14 Run doas nano ~/.bashrc
    Then at very end add uname -r;fortune
-15 run sudo rm /etc/motd
+15 run doas rm /etc/motd
