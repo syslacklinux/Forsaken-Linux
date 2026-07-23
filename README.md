@@ -6,3 +6,5 @@ Welcome To Forsaken Linux The Isoless Debian Based Linux Distribution!
 No ISO Needed!
 
 doas instead of sudo!
+
+Any Forsaken Linux Releases are on Day 17th!
