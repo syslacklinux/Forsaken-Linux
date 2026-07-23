@@ -20,7 +20,7 @@ Released During=Released during Indonesia 81 Independence Day
 
 Forsaken Linux 3
 Architecture=amd64,arm64,armel(only for upgrade),armhf,ppc64el,riscv64,s390x
-Codename=Unknown
+Codename=Unknown (Likely start with letter x and end with s)
 Based On Debian 13 Trixie
 New Features=TBA
 Kernel Version=maybe from trixie-backports
