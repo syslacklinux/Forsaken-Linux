@@ -6,5 +6,3 @@ Welcome To Forsaken Linux The Isoless Debian Based Linux Distribution!
 No ISO Needed!
 
 doas instead of sudo!
-
-Any releases are released after debian End of LTS example when Debian 11 Bullseye End of LTS Forsaken Linux will release the New Release!
