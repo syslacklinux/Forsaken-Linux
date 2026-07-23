@@ -17,3 +17,33 @@ Kernel Version=6.1
 Status=Next Release
 Release Date=August 17 2026
 Released During=Released during Indonesia 81 Independence Day
+
+Forsaken Linux 3
+Architecture=amd64,arm64,armel(only for upgrade),armhf,ppc64el,riscv64,s390x
+Codename=Unknown
+Based On Debian 13 Trixie
+New Features=TBA
+Kernel Version=maybe from trixie-backports
+Status=Future Release
+Release Date=Unknown
+Released During=Unknown
+
+Forsaken Linux 4
+Architecture=TBD
+Codename=Unknown
+Based On Debian 14 Forky
+New Features=TBA
+Kernel Version=maybe from debian 14 actual kernel version
+Status=Future Release
+Release Date=Unknown
+Released During=Unknown
+
+Forsaken Linux 5
+Architecture=TBD
+Codename=Unknown
+Based On Debian 15 Duke
+New Features=TBA
+Kernel Version=maybe from debian 15 actual kernel version
+Status=Future Release
+Release Date=Unknown
+Released During=Unknown
