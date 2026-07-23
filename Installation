@@ -1,4 +1,4 @@
-1 Download the ISO https://cdimage.debian.org/cdimage/archive/11.11.0/ iso-cd debian 11.11 netinst iso
+1 Download the ISO https://cdimage.debian.org/cdimage/archive/11.11.0/ select your architecture then iso-cd then download the debian 11.11 netinst iso
 2 Flash the iso from cd dvd or cd
 3 Setup Debian 11
 4 When on Software Selection Deselect Debian Desktop Environment leave it standard system utilities
