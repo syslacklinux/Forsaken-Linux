@@ -7,4 +7,4 @@ No ISO Needed!
 
 doas instead of sudo!
 
-Any Forsaken Linux Releases are on Day 17th!
+Every Forsaken Linux release happens on the 17th day of a month!
