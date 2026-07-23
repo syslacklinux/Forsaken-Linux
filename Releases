@@ -5,3 +5,15 @@ Based On Debian 11 Bullseye
 New Features=First Version Of Forsaken Linux
 Kernel Version=5.10
 Status=Current Stable Release
+Release Date=July 17 2026
+Released During=Same date when Forsaken Linux was Created
+
+Forsaken Linux 2
+Architecture=amd64,arm64,armel,armhf,i386,mips64el,mipsel,ppc64el,s390x
+Codename=Indonesia
+Based On Debian 12 Bookworm
+New Features=TBA
+Kernel Version=6.1
+Status=Next Release
+Release Date=August 17 2026
+Released During=Released during Indonesia 81 Independence Day
