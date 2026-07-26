@@ -8,3 +8,5 @@ No ISO Needed!
 doas instead of sudo!
 
 Every Forsaken Linux release happens on the 17th day of a month!
+
+New replacement of Syslack Linux due to Hate!
