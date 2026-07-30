@@ -7,7 +7,8 @@ Kernel Version=5.10
 Status=Current Stable Release
 Release Date=July 17 2026
 Released During=Same date when Forsaken Linux was Created
-EOL=2026-08-31
+Mainstream support end date=2026.08.21
+Extended support end date=2026.08.31
 
 Forsaken Linux 2
 Architecture=amd64,arm64,armel,armhf,i386,mips64el,mipsel,ppc64el,s390x
@@ -18,7 +19,8 @@ Kernel Version=6.1
 Status=Next Release
 Release Date=August 17 2026
 Released During=Released during Indonesia 81 Independence Day
-EOL=2028-06-30
+Mainstream support end date=TBA
+Extended support end date=TBA
 
 Forsaken Linux 3
 Architecture=amd64,arm64,armel(only for upgrade),armhf,ppc64el,riscv64,s390x
@@ -29,7 +31,8 @@ Kernel Version=maybe from trixie-backports
 Status=Future Release
 Release Date=Unknown
 Released During=Unknown
-EOL=2030-06-30
+Mainstream support end date=TBA
+Extended support end date=TBA
 
 Forsaken Linux 4
 Architecture=TBD
@@ -40,7 +43,8 @@ Kernel Version=maybe from debian 14 actual kernel version
 Status=Future Release
 Release Date=Unknown
 Released During=Unknown
-EOL=TBA
+Mainstream support end date=TBA
+Extended support end date=TBA
 
 Forsaken Linux 5
 Architecture=TBD
@@ -51,4 +55,5 @@ Kernel Version=maybe from debian 15 actual kernel version
 Status=Future Release
 Release Date=Unknown
 Released During=Unknown
-EOL=TBA
+Mainstream support end date=TBA
+Extended support end date=TBA
