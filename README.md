@@ -8,3 +8,5 @@ No ISO Needed!
 doas instead of sudo!
 
 Every Forsaken Linux release happens on the 17th day of a month!
+
+Defeat is not the end of Forsaken Linux. In the future Forsaken Linux will still be the best linux distribution
