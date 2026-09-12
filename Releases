@@ -4,7 +4,7 @@ Codename=Eclipse
 Based On Debian 11 Bullseye
 New Features=First Version Of Forsaken Linux
 Kernel Version=5.10
-Status=Current Stable Release
+Status=Oldstable release
 Release Date=July 17 2026
 Released During=Same date when Forsaken Linux was Created
 Mainstream support end date=2026.08.21
@@ -16,7 +16,7 @@ Codename=Stalemate
 Based On Debian 12 Bookworm
 New Features=Replaced Doas to Sudo,Shipped GNOME 43 and KDE Plasma 5.27,Shipped with Kernel 6.1,The architecture original mips removed leaving only mipsel and mips64el
 Kernel Version=6.1
-Status=Next Release
+Status=Current Stable Release
 Release Date=TBA
 Released During=Replaced The Codename From Indonesia to Stalemale
 Mainstream support end date=TBA
