@@ -12,13 +12,13 @@ Extended support end date=2026.08.31
 
 Forsaken Linux 2
 Architecture=amd64,arm64,armel,armhf,i386,mips64el,mipsel,ppc64el,s390x
-Codename=Indonesia
+Codename=Stalemate
 Based On Debian 12 Bookworm
 New Features=TBA
 Kernel Version=6.1
 Status=Next Release
-Release Date=August 17 2026
-Released During=Released during Indonesia 81 Independence Day
+Release Date=TBA
+Released During=Replaced The Codename From Indonesia to Stalemale
 Mainstream support end date=TBA
 Extended support end date=TBA
 
