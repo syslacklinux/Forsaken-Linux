@@ -1,0 +1,8 @@
+1 Download the iso https://www.debian.org/releases/bookworm/debian-installer/
+2 Flash the usb stick or cd
+3 Setup Debian 12
+4 When on Software Selection Deselect GNOME and debian desktop environment leaving it empty
+5 After install login as root first
+6 
+
+(UNFINISHED)
