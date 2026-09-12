@@ -17,7 +17,7 @@ Based On Debian 12 Bookworm
 New Features=Replaced Doas to Sudo,Shipped GNOME 43 and KDE Plasma 5.27,Shipped with Kernel 6.1,The architecture original mips removed leaving only mipsel and mips64el
 Kernel Version=6.1
 Status=Current Stable Release
-Release Date=TBA
+Release Date=September 13 2026
 Released During=Replaced The Codename From Indonesia to Stalemale
 Mainstream support end date=2027.03.30
 Extended support end date=2028.06.30
