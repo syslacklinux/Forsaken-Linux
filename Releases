@@ -14,7 +14,7 @@ Forsaken Linux 2
 Architecture=amd64,arm64,armel,armhf,i386,mips64el,mipsel,ppc64el,s390x
 Codename=Stalemate
 Based On Debian 12 Bookworm
-New Features=TBA
+New Features=Replaced Doas to Sudo,Shipped GNOME 43 and KDE Plasma 5.27,Shipped with Kernel 6.1,The architecture original mips removed leaving only mipsel and mips64el
 Kernel Version=6.1
 Status=Next Release
 Release Date=TBA
