@@ -4,6 +4,7 @@ to install
 
 For gnome sudo apt install gnome gdm3
 For kde sudo apt install task-kde-desktop
+For XFCE Run sudo apt install xfce4 xfce4-goodies
 
 after install run sudo rm -rf /usr/share/desktop-base
 
