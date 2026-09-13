@@ -14,3 +14,5 @@ deb-src https://deb.debian.org/debian trixie-backports main contrib non-free non
 After this ctrl x y enter then run sudo apt update then run sudo apt full-upgrade -y -t trixie-backports && sudo apt autoremove -y
 
 Latest Release is Forsaken Linux HWE 1 Based on Trixie Backports
+
+NOTE: Forsaken Linux HWE Is Supported on Forsaken Linux 2 (stalemate) and higher it is not supported on Forsaken Linux 1 (eclipse)
