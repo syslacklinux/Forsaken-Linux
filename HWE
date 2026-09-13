@@ -6,7 +6,7 @@ To install HWE
 Run sudo nano /etc/apt/sources.list
 Change all main non-free-firmware to main contrib non-free non-free-firmware including the Trixie Backports
 
-Then add at the end Forsaken Linux HWE
+Then add at the end # Forsaken Linux HWE
 after Forsaken Linux HWE add
 deb https://deb.debian.org/debian trixie-backports main contrib non-free non-free-firmware
 deb-src https://deb.debian.org/debian trixie-backports main contrib non-free non-free-firmware
