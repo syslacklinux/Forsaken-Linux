@@ -15,16 +15,6 @@ Hardware Enablement (HWE)
 
     HWE 1 — released September 13, 2026, based on Trixie backports.
 
-        Kernel 6.5 backport.
-
-        Mesa 23.x graphics stack.
-
-        Updated firmware packages.
-
-        Improved virtualization drivers.
-
-        Experimental riscv64 support.
-
     HWE 2 — planned, based on Forky backports.
 
 
