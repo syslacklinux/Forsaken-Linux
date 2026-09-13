@@ -14,3 +14,5 @@ you must check ls /usr/share/desktop-base
 if there is /usr/share/desktop-base run sudo rm -rf /usr/share/desktop-base then sudo apt-mark hold desktop-base
 
 Note if the wallpaper is just plain color for example gnome having a blue in debian without desktop base you can change with default wallpaper
+
+For KDE Plasma And Cinnamon sudo apt remove desktop-base && sudo apt purge desktop-base -y && sudo apt autoremove -y && sudo apt-mark hold desktop-base
