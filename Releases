@@ -24,12 +24,12 @@ Extended support end date=2028.06.30
 
 Forsaken Linux 3
 Architecture=amd64,arm64,armhf,ppc64el,riscv64,s390x,16-bit
-Codename=TBD
+Codename=At The Speed Of Light
 Based On Debian 13 Trixie
 New Features=TBA
-Kernel Version=maybe from trixie-backports
-Status=Future Release
-Release Date=Unknown
+Kernel Version=6.12
+Status=Codename and Release Date announced
+Release Date=January 16 2027
 Released During=Unknown
 Mainstream support end date=TBA
 Extended support end date=TBA
