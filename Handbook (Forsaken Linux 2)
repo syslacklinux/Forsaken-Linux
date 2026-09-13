@@ -44,8 +44,6 @@ CTRL X Y ENTER and prevent from getting resetted by running apt-mark hold base-f
 CTRL X Y Enter then update-grub
 
 14 Run apt install bsdgames fortune
-   Run nano ~/.bashrc
-   Then at very end add uname -r;fortune
 15 run rm /etc/motd
 16 Create a Forsaken origin file nano /etc/dpkg/origins/forsaken
    Add 
