@@ -23,7 +23,7 @@ Mainstream support end date=2027.03.30
 Extended support end date=2028.06.30
 
 Forsaken Linux 3
-Architecture=amd64,arm64,armel(only for upgrade),armhf,ppc64el,riscv64,s390x
+Architecture=amd64,arm64,armhf,ppc64el,riscv64,s390x,16-bit
 Codename=TBD
 Based On Debian 13 Trixie
 New Features=TBA
