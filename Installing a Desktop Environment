@@ -2,7 +2,7 @@ You can install desktop environment on Forsaken Linux
 
 to install
 
-For gnome sudo apt install task-gnome-desktop
+For gnome sudo apt install gnome gdm3
 For kde sudo apt install task-kde-desktop
 
 after install run sudo rm -rf /usr/share/desktop-base
