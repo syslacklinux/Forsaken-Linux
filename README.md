@@ -5,11 +5,7 @@
 Welcome to Forsaken Linux, the Isoless Debian‑based Linux Distribution!  
 No ISO Needed — Forsaken Linux is born from Debian, transformed by post‑install scripts, branding, and philosophy.
 
-Forsaken Linux 1 Eclipse — released July 17, 2026, based on Debian 11 Bullseye, kernel 5.10. First version, multi‑architecture support.
-
 Defeat is not the end — Forsaken Linux has returned on September 12, 2026, stronger than before.
-
-Forsaken Linux 2 Stalemate — released September 13, 2026, based on Debian 12 Bookworm, kernel 6.1. Introduced GNOME 43, KDE Plasma 5.27, switched from doas to sudo, streamlined architectures (dropping mips).
 
 Hardware Enablement (HWE)
 
