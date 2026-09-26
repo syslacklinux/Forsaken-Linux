@@ -1,0 +1,6 @@
+HWE (Hardware Enablement) packages in Forsaken Linux provide newer Linux kernels for any Forsaken Linux releases to support new hardware
+Introduced in September 13 2026 With Trixie Backports
+
+To install HWE
+
+Run sudo pacman -S linux linux-headers
