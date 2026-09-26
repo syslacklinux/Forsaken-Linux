@@ -23,7 +23,7 @@ Mainstream support end date=2027.03.30
 Extended support end date=2028.06.30
 
 Forsaken Linux 3
-Architecture=amd64,arm64,armhf,ppc64el,riscv64,s390x,16-bit
+Architecture=amd64,16-bit (Untested=arm64,armhf,ppc64el,riscv64,s390x)
 Codename=At The Speed Of Light
 Based On Arch Linux
 New Features=TBA
