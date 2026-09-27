@@ -1,0 +1,43 @@
+You can install desktop environment on Forsaken Linux
+
+to install
+
+For GNOME sudo pacman -S gnome gnome-tweaks gnome-extra gdm
+For KDE sudo pacman -S plasma-meta plasma plasma-desktop plasma-bigscreen plasma-login-manager
+For XFCE sudo pacman -S xfce4 xfce4-goodies pavucontrol gvfs xarchiver lightdm lightdm-gtk-greeter
+For Cinnamon sudo pacman -S cinnamon system-config-printer gnome-keyring gnome-terminal engrampa gnome-screenshot gvfs-smb xed xdg-user-dirs-gtk lightdm lightdm-gtk-greeter
+For MATE sudo pacman -S mate mate-extra lightdm lightdm-gtk-greeter
+For LXQT sudo pacman -S lxqt breeze-icons oxygen-icons xdg-utils ttf-freefont l3afpad slock sddm
+For LXDE sudo pacman -S lxde lxdm
+For Awesome Window Manager sudo pacman -S awesome alacritty xorg-xrandr xterm feh slock terminus-font gnu-free-fonts ttf-liberation xsel 
+For BSPWM sudo pacman -S bspwm sxhkd dmenu xdo rxvt-unicode lightdm lightdm-gtk-greeter
+For Budgie sudo pacman -S materia-gtk-theme budgie konsole dolphin papirus-icon-theme sddm
+For COSMIC sudo pacman -S cosmic xdg-user-dirs cosmic-greeter
+For Cutefish sudo pacman -S cutefish noto-fonts sddm
+For Deepin sudo pacman -S deepin deepin-terminal deepin-editor lightdm lightdm-gtk-greeter
+For Enlightenment sudo pacman -S enlightenment terminology lightdm lightdm-gtk-greeter
+For Hyprland sudo pacman -S hyprland dunst kitty uwsm dolphin wofi xdg-desktop-portal-hyprland qt5-wayland qt6-wayland polkit-kde-agent grim slurp sddm
+For i3wm sudo pacman -S i3-wm i3lock i3status i3blocks xss-lock xterm dmenu lightdm lightdm-gtk-greeter
+For LabWC sudo pacman -S alacritty labwc lightdm lightdm-gtk-greeter
+For Niri sudo pacman -S niri alacritty fuzzel mako xorg-xwayland waybar swaybg swayidle swaylock xdg-desktop-portal-gnome lightdm lightdm-gtk-greeter
+For Qtile sudo pacman -S qtile alacritty lightdm lightdm-gtk-greeter
+For RiverWM sudo pacman -S foot xdg-desktop-portal-wlr river lightdm lightdm-gtk-greeter
+For Sway sudo pacman -S sway swaybg swaylock swayidle waybar wmenu brightnessctl grim slurp pavucontrol foot xorg-xwayland lightdm lightdm-gtk-greeter
+For Xmonad sudo pacman -S xmonad xmonad-contrib xmonad-extras xterm dmenu lightdm lightdm-gtk-greeter
+For FVWM95 sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xscreensaver thunar xterm lxappearance pulseaudio pavucontrol
+           Then git clone https://github.com/Mintsuki/fvwm95.git then cd fvwm95
+           Then After all the dependencies are satisfied - configure, build, and install (into /usr/local - change if wanted) fvwm95 by running
+           ./bootstrap
+           ./configure --prefix=/usr/local
+           make
+           sudo make install
+xinit
+
+In order to start fvwm95 with xinit, add the following to your ~/.xinitrc file
+exec fvwm95
+To start it, simply type
+startx
+
+For IceWM sudo pacman -S icewm xterm xorg xscreensaver thunar pulseaudio pavucontrol lxdm 
+Fow WindowMaker sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xorg-xdm windowmaker
+After install run enable and start display manager like gdm sddm plasma login manager or lightdm or lxdm
