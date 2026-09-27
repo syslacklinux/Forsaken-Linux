@@ -13,7 +13,6 @@ For Awesome Window Manager sudo pacman -S awesome alacritty xorg-xrandr xterm fe
 For BSPWM sudo pacman -S bspwm sxhkd dmenu xdo rxvt-unicode lightdm lightdm-gtk-greeter
 For Budgie sudo pacman -S materia-gtk-theme budgie konsole dolphin papirus-icon-theme sddm
 For COSMIC sudo pacman -S cosmic xdg-user-dirs cosmic-greeter
-For Cutefish sudo pacman -S cutefish noto-fonts sddm
 For Deepin sudo pacman -S deepin deepin-terminal deepin-editor lightdm lightdm-gtk-greeter
 For Enlightenment sudo pacman -S enlightenment terminology lightdm lightdm-gtk-greeter
 For Hyprland sudo pacman -S hyprland dunst kitty uwsm dolphin wofi xdg-desktop-portal-hyprland qt5-wayland qt6-wayland polkit-kde-agent grim slurp sddm
