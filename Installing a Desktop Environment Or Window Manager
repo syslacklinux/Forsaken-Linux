@@ -41,3 +41,6 @@ startx
 For IceWM sudo pacman -S icewm xterm xorg xscreensaver thunar pulseaudio pavucontrol lxdm 
 Fow WindowMaker sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xorg-xdm windowmaker
 After install run enable and start display manager like gdm sddm plasma login manager lightdm or similar (If The DE or WM has Display Manager)
+
+For Forsaken Linux Lite this was easy by typing doas setup-desktop
+NOTE FOR FORSAKEN LINUX LITE: The Desktop Environment and Window Managers Are Limited
