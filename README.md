@@ -6,4 +6,4 @@ Welcome to Forsaken Linux, the Isoless arch-based Linux Distribution!
 No ISO Needed — Forsaken Linux is born from Arch Linux, transformed by post‑install scripts, branding, and philosophy.
 
 Looking for Forsaken Linux Lite?
-Get it here https://github.com/syslacklinux/Forsaken-Linux-Lite/
+Get it here https://github.com/syslacklinux/Forsaken-Linux-Lite
