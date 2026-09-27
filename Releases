@@ -13,7 +13,7 @@ Extended support end date=2026.08.31
 Forsaken Linux 2
 Architecture=amd64,arm64,armel,armhf,i386,mips64el,mipsel,ppc64el,s390x,16-bit
 Codename=Stalemate
-Based On Debian 12 Bookworm
+Based On Debian 12 Bookworm,ELKS (Forsaken Linux 16-bit)
 New Features=Replaced Doas to Sudo,Shipped GNOME 43 and KDE Plasma 5.27,Shipped with Kernel 6.1,The architecture original mips removed leaving only mipsel and mips64el
 Kernel Version=6.1
 Status=Current Stable Release Oldstable release
@@ -25,7 +25,7 @@ Extended support end date=2028.06.30
 Forsaken Linux 3
 Architecture=amd64,16-bit (Regular). aarch64,armv7,armhf,loongarch64,ppc64le,riscv64,s390x,x86_32,x86_64 (Forsaken Linux Lite).
 Codename=At The Speed Of Light
-Based On Arch Linux (Regular Forsaken Linux) Alpine Linux (Forsaken Linux Lite)
+Based On Arch Linux (Regular Forsaken Linux) Alpine Linux (Forsaken Linux Lite) ELKS (Forsaken Linux 16-bit)
 New Features=Kernel 6.18.54-1,GNOME 50,Plasma 6.7,New Desktop Environment Or Window Manager Updates,Forsaken Linux Lite Released on September 27 2026,HWE 2
 Kernel Version=6.18.54-1
 Status=Current Stable Release
