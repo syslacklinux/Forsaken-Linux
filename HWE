@@ -4,3 +4,7 @@ Introduced in September 13 2026 With Trixie Backports
 To install HWE
 
 Run sudo pacman -S linux linux-headers
+
+For Forsaken Linux Lite
+
+Run doas apk add linux-stable
