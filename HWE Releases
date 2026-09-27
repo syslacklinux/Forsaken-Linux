@@ -5,5 +5,5 @@ Closed on=September 16 2026
 
 HWE 2
 Release Date=September 26 2026
-Based on=Arch Linux Kernels (Non LTS Mainline)
+Based on=Arch Linux Kernels (Non LTS Mainline),Alpine Linux linux-stable kernel (Forsaken Linux Lite)
 Closed on=TBD
