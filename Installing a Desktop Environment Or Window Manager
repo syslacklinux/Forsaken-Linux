@@ -24,7 +24,7 @@ For Qtile sudo pacman -S qtile alacritty lightdm lightdm-gtk-greeter
 For RiverWM sudo pacman -S foot xdg-desktop-portal-wlr river lightdm lightdm-gtk-greeter
 For Sway sudo pacman -S sway swaybg swaylock swayidle waybar wmenu brightnessctl grim slurp pavucontrol foot xorg-xwayland lightdm lightdm-gtk-greeter
 For Xmonad sudo pacman -S xmonad xmonad-contrib xmonad-extras xterm dmenu lightdm lightdm-gtk-greeter
-For FVWM95 sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xscreensaver thunar xterm lxappearance pulseaudio pavucontrol git links
+For FVWM95 sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xscreensaver thunar xterm lxappearance pulseaudio pavucontrol git links iagno totem
            Then git clone https://github.com/Mintsuki/fvwm95.git then cd fvwm95
            Then After all the dependencies are satisfied - configure, build, and install (into /usr/local - change if wanted) fvwm95 by running
            ./bootstrap
