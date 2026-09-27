@@ -51,3 +51,5 @@ If you want startx to run automatically every time you log into the first termin
 if [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]]; then
     exec startx
 fi
+
+NOTE: FORSAKEN LINUX 16-BIT IS NOT SUPPORTED BECAUSE ITS ELKS BASED
