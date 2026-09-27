@@ -31,7 +31,6 @@ For FVWM95 sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xor
            ./configure --prefix=/usr/local
            make
            sudo make install
-xinit
 
 In order to start fvwm95 with xinit, add the following to your ~/.xinitrc file
 exec fvwm95
