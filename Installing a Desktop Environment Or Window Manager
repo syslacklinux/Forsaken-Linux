@@ -43,3 +43,11 @@ After install run enable and start display manager like gdm sddm plasma login ma
 
 For Forsaken Linux Lite this was easy by typing doas setup-desktop
 NOTE FOR FORSAKEN LINUX LITE: The Desktop Environment and Window Managers Are Limited
+
+For TTY Login auto startx when after login
+
+If you want startx to run automatically every time you log into the first terminal (tty1), add this snippet to your shell's profile file (like ~/.bash_profile or ~/.zprofile)
+
+if [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]]; then
+    exec startx
+fi
