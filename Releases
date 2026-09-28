@@ -23,7 +23,7 @@ Mainstream support end date=2027.03.30
 Extended support end date=2028.06.30
 
 Forsaken Linux 3
-Architecture=amd64,16-bit (Regular). aarch64,armv7,armhf,loongarch64,ppc64le,riscv64,s390x,x86_32,x86_64 (Forsaken Linux Lite).
+Architecture=amd64 (Regular). aarch64,armv7,armhf,loongarch64,ppc64le,riscv64,s390x,i686,amd64,16-bit (Forsaken Linux Lite).
 Codename=At The Speed Of Light
 Based On Arch Linux (Regular Forsaken Linux) Alpine Linux (Forsaken Linux Lite) ELKS (Forsaken Linux 16-bit)
 New Features=Kernel 6.18.54-1,GNOME 50,Plasma 6.7,New Desktop Environment Or Window Manager Updates,Forsaken Linux Lite Released on September 27 2026,HWE 2
