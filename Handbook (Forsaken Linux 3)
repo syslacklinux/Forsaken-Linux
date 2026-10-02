@@ -3,7 +3,7 @@
 3 When on Archiso type pacman -Sy archinstall;archinstall
   For Bootloader Change Systemd-boot to GRUB
   For Kernels Change linux to linux-lts
-  For applications Enable Bluetooth enabled audio pipewire print service enabled power management power-profiles-daemon
+  For applications Enable Bluetooth enable print service enable power management and power-profiles-daemon
   Network Configuration Network Manager default backend (or iwd backend if you need it)
   Dont Select Profile because install minimal first!
   After this Install then yes
