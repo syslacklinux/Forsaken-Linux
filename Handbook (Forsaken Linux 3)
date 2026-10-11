@@ -24,7 +24,10 @@
 NAME="Forsaken Linux"
 PRETTY_NAME="Forsaken Linux"
 ID=forsaken
-BUILD_ID=3 (at the speed of light)
+VERSION_ID="3"
+VERSION="3 (at the speed of light)"
+VERSION_CODENAME=at the speed of light
+BUILD_ID=20261011
 HOME_URL="https://github.com/syslacklinux/Forsaken-Linux"
 DOCUMENTATION_URL="https://github.com/syslacklinux/Forsaken-Linux/wiki"
 SUPPORT_URL="https://github.com/syslacklinux/Forsaken-Linux/discussions/1"
