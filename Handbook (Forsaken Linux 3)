@@ -5,6 +5,7 @@
   For Bootloader Change Systemd-boot to GRUB
   For Kernels Change linux to linux-lts
   Network Configuration Network Manager default backend (or iwd backend if you need it)
+  For User and password It is required to create root password first then User account and password
   Dont Select Profile because install minimal first!
   After this Install then yes
   Wait until installation completed
