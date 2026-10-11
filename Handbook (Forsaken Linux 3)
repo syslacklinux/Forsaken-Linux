@@ -1,6 +1,6 @@
 1 Download the iso https://fastly.mirror.pkgbuild.com/iso/2026.09.01/ then Select archlinux-2026.09.01-x86_64.iso
 2 Flash the USB Or similar using Rufus Or Similar
-3 When on Archiso type pacman -Sy archinstall;archinstall
+3 When on Archiso type archinstall
   For Bootloader Change Systemd-boot to GRUB
   For Kernels Change linux to linux-lts
   For applications Enable Bluetooth enable print service enable power management and power-profiles-daemon
