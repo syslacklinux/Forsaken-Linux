@@ -4,7 +4,6 @@
   For Main Filesystem use ext4 its recommended for Forsaken Linux
   For Bootloader Change Systemd-boot to GRUB
   For Kernels Change linux to linux-lts
-  For applications Enable Bluetooth enable print service enable power management and power-profiles-daemon
   Network Configuration Network Manager default backend (or iwd backend if you need it)
   Dont Select Profile because install minimal first!
   After this Install then yes
