@@ -19,7 +19,7 @@ For Hyprland sudo pacman -S --needed hyprland dunst kitty uwsm dolphin wofi xdg-
 For i3wm sudo pacman -S --needed i3-wm i3lock i3status i3blocks xss-lock xterm dmenu lightdm lightdm-gtk-greeter --noconfirm
 For LabWC sudo pacman -S --needed alacritty labwc lightdm lightdm-gtk-greeter --noconfirm
 For Niri sudo pacman -S --needed niri alacritty fuzzel mako xorg-xwayland waybar swaybg swayidle swaylock xdg-desktop-portal-gnome lightdm lightdm-gtk-greeter --noconfirm
-FOr Niri with DMS sudo pacman -S --needed niri dms-shell-niri polkit xdg-desktop-portal-gnome xorg-xwayland matugen cava kimageformats --noconfirm
+For Niri with DMS sudo pacman -S --needed niri dms-shell-niri polkit xdg-desktop-portal-gnome xorg-xwayland matugen cava kimageformats --noconfirm
 For Qtile sudo pacman -S --needed qtile alacritty lightdm lightdm-gtk-greeter --noconfirm
 For RiverWM sudo pacman -S --needed foot xdg-desktop-portal-wlr river lightdm lightdm-gtk-greeter --noconfirm
 For Sway sudo pacman -S --needed sway swaybg swaylock swayidle waybar wmenu brightnessctl grim slurp pavucontrol foot xorg-xwayland lightdm lightdm-gtk-greeter --noconfirm
@@ -37,8 +37,10 @@ exec fvwm95
 To start it, simply type
 startx
 
-For IceWM sudo pacman -S icewm xterm xorg xscreensaver thunar pulseaudio pavucontrol lxdm 
-Fow WindowMaker sudo pacman -S --needed base-devel autoconf automake pkgconf xorg xorg-xinit xbitmaps libx11 libxt libxext libxpm readline libxmu xorg-xdm windowmaker
+For IceWM sudo pacman -S --needed icewm xterm xorg-server xorg-xinit xscreensaver thunar pulseaudio pavucontrol lxdm --noconfirm
+Fow WindowMaker sudo pacman -S --needed windowmaker xorg-server xorg-xinit xorg-xdm --noconfirm
+For TWM sudo pacman -S --needed xorg-server xorg-xinit xorg-twm xterm xorg-xdm --noconfirm
+
 After install run enable and start display manager like gdm sddm plasma login manager lightdm or similar (If The DE or WM has Display Manager)
 
 For Forsaken Linux Lite this was easy by typing doas setup-desktop
