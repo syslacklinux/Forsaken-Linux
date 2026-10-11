@@ -19,6 +19,7 @@ For Hyprland sudo pacman -S --needed hyprland dunst kitty uwsm dolphin wofi xdg-
 For i3wm sudo pacman -S --needed i3-wm i3lock i3status i3blocks xss-lock xterm dmenu lightdm lightdm-gtk-greeter --noconfirm
 For LabWC sudo pacman -S --needed alacritty labwc lightdm lightdm-gtk-greeter --noconfirm
 For Niri sudo pacman -S --needed niri alacritty fuzzel mako xorg-xwayland waybar swaybg swayidle swaylock xdg-desktop-portal-gnome lightdm lightdm-gtk-greeter --noconfirm
+FOr Niri with DMS sudo pacman -S --needed niri dms-shell-niri polkit xdg-desktop-portal-gnome xorg-xwayland matugen cava kimageformats --noconfirm
 For Qtile sudo pacman -S --needed qtile alacritty lightdm lightdm-gtk-greeter --noconfirm
 For RiverWM sudo pacman -S --needed foot xdg-desktop-portal-wlr river lightdm lightdm-gtk-greeter --noconfirm
 For Sway sudo pacman -S --needed sway swaybg swaylock swayidle waybar wmenu brightnessctl grim slurp pavucontrol foot xorg-xwayland lightdm lightdm-gtk-greeter --noconfirm
