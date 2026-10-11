@@ -38,7 +38,7 @@ To start it, simply type
 startx
 
 For IceWM sudo pacman -S --needed icewm xterm xorg-server xorg-xinit xscreensaver thunar pulseaudio pavucontrol lxdm --noconfirm
-Fow WindowMaker sudo pacman -S --needed windowmaker xorg-server xorg-xinit xorg-xdm --noconfirm
+For WindowMaker sudo pacman -S --needed windowmaker xorg-server xorg-xinit xorg-xdm --noconfirm
 For TWM sudo pacman -S --needed xorg-server xorg-xinit xorg-twm xterm xorg-xdm --noconfirm
 
 After install run enable and start display manager like gdm sddm plasma login manager lightdm or similar (If The DE or WM has Display Manager)
