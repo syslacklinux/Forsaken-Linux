@@ -53,4 +53,5 @@ fi
 
 NOTE: FORSAKEN LINUX 16-BIT IS NOT SUPPORTED BECAUSE ITS ELKS BASED
 
-Forsaken Linux wont Recommend You to Install GNOME or KDE Plasma in Virtual Machine because it ended up crash the vm example Oracle VirtualBox Stopped Due to Using a lot of memory
+Forsaken Linux wont Recommend You to Install GNOME or KDE Plasma in Virtual Machine because it ended up crash the vm example Oracle VirtualBox Stopped Due to Using a lot of memory.
+GNOME and KDE are Heavy so it require more space because it its low storage you might be ended up by pacman saying not enough space or more Memory
