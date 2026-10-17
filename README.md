@@ -9,3 +9,5 @@ Forsaken Linux Release cycle is No longer Every 17 Date and Month Different or P
 
 Looking for Forsaken Linux Lite?
 Get it here https://github.com/syslacklinux/Forsaken-Linux-Lite
+
+Forsaken Linux Subreddit https://www.reddit.com/r/ForsakenLinux/
