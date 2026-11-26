@@ -3,7 +3,12 @@
 3 When on Archiso
   nano /etc/pacman.d/mirrorlist then alt + t then add 
   
-  Forsaken Linux 4 Mirror Repository
+  ##
+  ## Forsaken Linux repository mirrorlist
+  ## Generated on 2026-11-26
+  ##
+
+  ## Forsaken Linux 4
   Server = https://archive.archlinux.org/repos/2026/11/25/$repo/os/$arch
 
   type archinstall
