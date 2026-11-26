@@ -2,8 +2,8 @@
 
 # Forsaken Linux — The Isoless Distribution Beyond Time
 
-Welcome to Forsaken Linux, the Isoless arch-based Linux Distribution!  
-No ISO Needed — Forsaken Linux is born from Arch Linux, transformed by post‑install scripts, branding, and philosophy.
+Welcome to Forsaken Linux, the Isoless arch-based Linux Distribution which is No ISO Needed!
+Making it the most Linux Distro without ISO
 
 Forsaken Linux Release cycle is It will be ready when it's ready
 
