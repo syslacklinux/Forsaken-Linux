@@ -1,7 +1,7 @@
 1 Download the iso https://fastly.mirror.pkgbuild.com/iso/2026.11.01/ then Select archlinux-x86_64.iso
 2 Flash the USB Or similar using Rufus Or Similar
 3 When on Archiso
-  nano then nano /etc/pacman.d/mirrorlist then alt + t then add 
+  nano /etc/pacman.d/mirrorlist then alt + t then add 
   
   Forsaken Linux 4 Mirror Repository
   Server = https://archive.archlinux.org/repos/2026/11/25/$repo/os/$arch
