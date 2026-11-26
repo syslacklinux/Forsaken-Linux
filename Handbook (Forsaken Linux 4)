@@ -11,7 +11,12 @@
   Dont Select Profile because install minimal first!
   After this Install then yes
   Wait until installation completed
-4 After install login as root first then run pacman -Syu then pacman -S nano then nano /etc/pacman.conf then uncomment the # on multilib then ctrl x y enter then pacman -Syu
+4 After install login as root first then run pacman -Syu then pacman -S nano then nano /etc/pacman.d/mirrorlist then alt + t then add 
+  Forsaken Linux 4 Mirror Repository
+  Server = https://archive.archlinux.org/repos/2026/11/25/$repo/os/$arch
+
+  Ctrl x y enter then pacman -Syu
+  then nano /etc/pacman.conf then uncomment the # on multilib then ctrl x y enter then pacman -Syu
 5 Run pacman -S links then run links https://github.com/syslacklinux/Forsaken-Linux then save the Screenshot From 2026-09-26 20-58-37 Then save then change the name 659432023-e7572573-9fac-4254-8789-8767b3009b7d.png to forsaken-logo.png
 6 Run mv /root/forsaken-logo.png /usr/share/pixmaps
   Run cp /usr/share/pixmaps/forsaken-logo.png /usr/share/pixmaps/archlinux-logo.png
