@@ -13,7 +13,7 @@
 
 
   Ctrl x y enter then pacman -Sy
-  type archinstall --debug
+  type archinstall (or archinstall --debug if it does not work)
   For Mirrors and Repositories then add custom repository then enter repository https://archive.archlinux.org/repos/2026/11/25/$repo/os/$arch then enter then signature optional and signature option TrustAll then confirm and exit
   For Main Filesystem use ext4 its recommended for Forsaken Linux
   For Bootloader Change Systemd-boot to GRUB
