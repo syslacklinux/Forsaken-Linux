@@ -1,9 +1,11 @@
-1 Download the iso https://fastly.mirror.pkgbuild.com/iso/2026.09.01/ then Select archlinux-2026.09.01-x86_64.iso
+1 Download the iso https://fastly.mirror.pkgbuild.com/iso/2026.11.01/ then Select archlinux-x86_64.iso
 2 Flash the USB Or similar using Rufus Or Similar
-3 When on Archiso type archinstall
+3 When on Archiso
+  type archinstall
+  For Mirrors and Repositories then add custom repository then enter repository https://archive.archlinux.org/repos/2026/11/25/$repo/os/$arch then enter then signature optional and signature option TrustAll then confirm and exit
   For Main Filesystem use ext4 its recommended for Forsaken Linux
   For Bootloader Change Systemd-boot to GRUB
-  For Kernels Change linux to linux-lts
+  For Kernels keep linux as HWE is abandoned for standard forsaken linux because now it uses standard kernel info from https://github.com/syslacklinux/Forsaken-Linux/issues/16
   Network Configuration Network Manager default backend (or iwd backend if you need it)
   For User and password It is required to create root password first then User account and password
   Dont Select Profile because install minimal first!
@@ -24,10 +26,9 @@
 NAME="Forsaken Linux"
 PRETTY_NAME="Forsaken Linux"
 ID=forsaken
-VERSION_ID="3"
-VERSION="3 (at the speed of light)"
-VERSION_CODENAME=at the speed of light
-BUILD_ID=20261011
+VERSION_ID="4"
+VERSION="4 (midori)"
+VERSION_CODENAME=midori
 HOME_URL="https://github.com/syslacklinux/Forsaken-Linux"
 DOCUMENTATION_URL="https://github.com/syslacklinux/Forsaken-Linux/wiki"
 SUPPORT_URL="https://github.com/syslacklinux/Forsaken-Linux/discussions/1"
@@ -59,7 +60,7 @@ DISTRIB_DESCRIPTION="Arch Linux"
 To
 
 DISTRIB_ID="Forsaken Linux"
-DISTRIB_RELEASE="3 (at the speed of light)"
+DISTRIB_RELEASE="4 (midori)"
 DISTRIB_DESCRIPTION="Forsaken Linux"
 
 After Done run CTRL X Y Enter
